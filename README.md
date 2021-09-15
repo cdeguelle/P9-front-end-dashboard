@@ -55,7 +55,7 @@ This project includes four endpoints that you will be able to use:
 - `http://localhost:3000/user/${userId}/average-sessions` - retrieves the average sessions of a user per day. The week starts on Monday.
 - `http://localhost:3000/user/${userId}/performance` - retrieves a user's performance (energy, endurance, etc.).
 - `http://localhost:3000/user/${userId}/key-data` - retrieves a user's key datas (lipid, protein, calorie, carbohydrate ).
-- `http://localhost:3000/user/${userId}/today-score` - retrieves a user's daily score (%).
+- `http://localhost:3000/user/${userId}/today-score` - retrieves a user's current day's score (%).
 
 
 **Warning, currently only two users have been mocked. They have userId 12 and 18 respectively.**
